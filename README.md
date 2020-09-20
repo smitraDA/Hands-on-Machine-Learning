@@ -1,3 +1,3 @@
 # Hands-on-Machine-Learning
-COVID Tester( Multivarient Binary Class Classification Model_Qadratic_Parametric_Normal)
-Autoenconder-Denoising(Image denoising with Autoenconder network)
+1.COVID Tester( Multivarient Binary Class Classification Model_Qadratic_Parametric_Normal)
+2.Autoenconder-Denoising(Image denoising with Autoenconder network)
